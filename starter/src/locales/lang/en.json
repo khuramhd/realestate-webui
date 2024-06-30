@@ -1,0 +1,29 @@
+{
+    "nav": {
+        "home": "Home",
+        "singleMenuItem": "Single menu item",
+        "propertyList": "Property list",
+        "addNewProperty": "Add New Property",
+        "collapseMenu": {
+            "collapseMenu": "Collapse menu item",
+            "item1": "Collapse menu item 1",
+            "item2": "Collapse menu item 2"
+        },
+        "groupMenu": {
+            "groupMenu": "Super Admin",
+            "single": "Listing Management",
+            "collapse": {
+                "collapse": "User Management",
+                "item1": "User List",
+                "item2": "Add New User"
+            }
+        },
+        "properties":
+        {
+            "properties": "Properties",
+            "propertyList": "Property List",
+            "addNewProperty": "Add New Property",
+            "editProperty": "Edit Property"
+        }
+    }
+}
